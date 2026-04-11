@@ -1,0 +1,17 @@
+{
+  "number": 20,
+  "name": "Raticate",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Focus Energy", "Quick Attack", "Tackle", "Tail Whip"],
+    "silver": ["Assurance", "Flame Wheel", "Hyper Fang", "Pursuit", "Scary Face", "Sucker Punch"],
+    "gold": ["Crunch", "Double-Edge", "Endeavor", "Super Fang"],
+    "platinum": ["Final Gambit", "Iron Tail", "Last Resort", "Screech", "Swords Dance"],
+    "diamond": []
+  }
+}

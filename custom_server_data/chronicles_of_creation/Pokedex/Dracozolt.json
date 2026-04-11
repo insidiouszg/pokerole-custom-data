@@ -1,0 +1,17 @@
+{
+  "number": 880,
+  "name": "Dracozolt",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Aerial Ace", "Charge", "Tackle", "Thunder Shock"],
+    "silver": ["Ancient Power", "Discharge", "Dragon Tail", "Pluck", "Slam", "Stomp"],
+    "gold": ["Bolt Beak", "Dragon Pulse", "Dragon Rush"],
+    "platinum": ["Breaking Swipe", "Draco Meteor", "Wild Charge"],
+    "diamond": []
+  }
+}

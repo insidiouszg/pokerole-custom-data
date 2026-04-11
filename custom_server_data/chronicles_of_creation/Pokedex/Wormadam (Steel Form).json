@@ -1,0 +1,17 @@
+{
+  "number": 413,
+  "name": "Wormadam (Steel Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Protect", "Tackle"],
+    "silver": ["Bug Bite", "Captivate", "Flail", "Hidden Power", "Metal Sound", "Mirror Shot", "Psybeam"],
+    "gold": ["Attract", "Bug Buzz", "Iron Head", "Psychic", "Quiver Dance", "Sucker Punch"],
+    "platinum": ["Electroweb", "Iron Defense", "String Shot", "Synthesis"],
+    "diamond": []
+  }
+}

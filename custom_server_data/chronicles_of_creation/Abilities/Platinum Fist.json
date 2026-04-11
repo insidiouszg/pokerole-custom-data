@@ -1,0 +1,5 @@
+{
+    "name": "Platinum Fist",
+    "description": "This pokemon's fists are the hardest and strike the quickest.",
+    "effect": "All Fist Based moves from this Pokemon deal 1 extra damage. In addition, they gain +1 Power and Accuracy."
+}

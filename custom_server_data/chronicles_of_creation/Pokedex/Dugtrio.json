@@ -1,0 +1,17 @@
+{
+  "number": 51,
+  "name": "Dugtrio",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Astonish", "Growl", "Mud Slap", "Sand Attack", "Scratch"],
+    "silver": ["Bulldoze", "Dig", "Earth Power", "Magnitude", "Mud Bomb", "Rototiller", "Tri Attack"],
+    "gold": ["Earthquake", "Fissure", "Night Slash", "Sand Tomb", "Slash", "Sucker Punch"],
+    "platinum": ["Ancient Power", "Feint Attack", "Rock Slide", "Screech", "Stealth Rock"],
+    "diamond": []
+  }
+}

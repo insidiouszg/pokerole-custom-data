@@ -1,0 +1,6 @@
+{
+    "name": "Feathered Band",
+    "description": "The User gains +1 Power to all __Dancing__ damaging moves. For each different unique __Dancing__ based move used in a row gain +1 Accuracy Dice for each",
+    "category": "HeldItem",
+    "single_use": false
+}

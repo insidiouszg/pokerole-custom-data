@@ -1,0 +1,17 @@
+{
+  "number": 141,
+  "name": "Kabutops",
+  "base_hp": 4,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Absorb", "Harden", "Leer", "Sand Attack", "Scratch"],
+    "silver": ["Aqua Jet", "Endure", "Feint", "Mega Drain", "Metal Sound", "Mud Shot", "Slash"],
+    "gold": ["Ancient Power", "Night Slash", "Wring Out"],
+    "platinum": ["Confuse Ray", "Iron Defense", "Stealth Rock"],
+    "diamond": []
+  }
+}

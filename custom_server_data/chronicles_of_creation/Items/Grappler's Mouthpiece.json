@@ -1,0 +1,6 @@
+{
+    "name": "Grappler's Mouthpiece",
+    "description": "All the User's Physical Attacks gain __Biting__.",
+    "category": "HeldItem",
+    "single_use": false
+}

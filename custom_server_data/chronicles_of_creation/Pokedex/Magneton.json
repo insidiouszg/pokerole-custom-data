@@ -1,0 +1,17 @@
+{
+  "number": 82,
+  "name": "Magneton",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Electric Terrain", "Sonic Boom", "Supersonic", "Tackle", "Thunder Shock", "Tri Attack"],
+    "silver": ["Electro Ball", "Flash Cannon", "Light Screen", "Lock-On", "Magnet Bomb", "Magnet Rise", "Metal Sound", "Mirror Shot", "Screech", "Spark", "Thunder Wave"],
+    "gold": ["Discharge", "Gyro Ball", "Zap Cannon"],
+    "platinum": ["Gravity", "Iron Defense", "Signal Beam"],
+    "diamond": []
+  }
+}

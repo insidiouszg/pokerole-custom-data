@@ -1,0 +1,5 @@
+{
+    "name": "Gale Force",
+    "description": "This pokemon can summon impressive winds!",
+    "effect": "All Wind Based moves from this Pokemon deal 1 extra damage."
+}

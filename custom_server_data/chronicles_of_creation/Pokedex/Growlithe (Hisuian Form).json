@@ -1,0 +1,17 @@
+{
+  "number": 58,
+  "name": "Growlithe (Hisuian Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bite", "Ember", "Flame Wheel", "Leer", "Odor Sleuth", "Roar"],
+    "silver": ["Ancient Power", "Fire Fang", "Flamethrower", "Iron Tail", "Power Gem", "Take Down", "Work Up"],
+    "gold": ["Crunch", "Flare Blitz", "Lava Plume", "Play Rough", "Raging Fury", "Rock Slide"],
+    "platinum": ["Dig", "Flame Charge", "Rock Smash"],
+    "diamond": []
+  }
+}

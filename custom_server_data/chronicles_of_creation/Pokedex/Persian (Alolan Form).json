@@ -1,0 +1,17 @@
+{
+  "number": 53,
+  "name": "Persian (Alolan Form)",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Fake Out", "Fury Swipes", "Growl", "Scratch", "Screech"],
+    "silver": ["Captivate", "Dark Pulse", "Feint Attack", "Pay Day", "Play Rough", "Power Gem", "Slash", "Swift", "Switcheroo", "Taunt"],
+    "gold": ["Assurance", "Feint", "Nasty Plot", "Night Slash", "Quash"],
+    "platinum": ["Charm", "Flatter", "Parting Shot", "Snarl", "Spite", "Torment"],
+    "diamond": []
+  }
+}

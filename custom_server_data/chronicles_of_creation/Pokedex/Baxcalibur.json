@@ -1,0 +1,17 @@
+{
+  "number": 988,
+  "name": "Baxcalibur",
+  "base_hp": 7,
+  "strength": "4/8",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Breaking Swipe", "Dragon Tail", "Icy Wind", "Leer", "Snowscape", "Tackle"],
+    "silver": ["Bite", "Dragon Breath", "Dragon Claw", "Focus Energy", "Ice Fang"],
+    "gold": ["Crunch", "Glaive Rush", "Ice Beam", "Icicle Crash", "Take Down"],
+    "platinum": ["Aqua Tail", "Dragon Rush", "Freeze-Dry", "Icicle Spear"],
+    "diamond": []
+  }
+}

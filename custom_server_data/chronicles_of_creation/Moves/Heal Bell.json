@@ -1,7 +1,7 @@
 {
   "name": "Heal Bell",
   "type": "Normal",
-  "power": 9,
+  "power": 0,
   "damage": "",
   "accuracy": "Special",
   "target": "User and Allies",

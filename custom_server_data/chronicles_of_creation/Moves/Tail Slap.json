@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Successive Actions.",
+  "effect": "Striking. Successive Actions.",
   "description": "The Pokemon slaps the foe's face with its strong tail.",
   "category": "Physical"
 }

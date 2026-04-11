@@ -1,0 +1,17 @@
+{
+  "number": 376,
+  "name": "Metagross",
+  "base_hp": 5,
+  "strength": "4/8",
+  "dexterity": "2/5",
+  "vitality": "4/8",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Confusion", "Metal Claw", "Take Down"],
+    "silver": ["Agility", "Bullet Punch", "Magnet Rise", "Miracle Eye", "Pursuit", "Scary Face", "Zen Headbutt"],
+    "gold": ["Hammer Arm", "Hyper Beam", "Iron Defense", "Iron Head", "Meteor Mash", "Psychic"],
+    "platinum": ["Block", "Headbutt", "Ice Punch", "Self Destruct", "Telekinesis", "Thunder Punch"],
+    "diamond": []
+  }
+}

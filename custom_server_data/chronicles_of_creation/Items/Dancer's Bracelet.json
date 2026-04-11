@@ -1,0 +1,6 @@
+{
+    "name": "Dancer's Bracelet",
+    "description": "All the User's Special Attacks gain __Dancing__.",
+    "category": "HeldItem",
+    "single_use": false
+}

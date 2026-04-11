@@ -1,0 +1,6 @@
+{
+    "name": "Bladed Fan",
+    "description": "The User gains +1 Power to all __Wind Based__ damaging moves. __Wind Based__ moves ignore the effects of Screens while this item is held",
+    "category": "HeldItem",
+    "single_use": false
+}

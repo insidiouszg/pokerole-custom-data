@@ -1,0 +1,17 @@
+{
+  "number": 866,
+  "name": "Mr. Rime",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["After You", "Ally Switch", "Barrier", "Baton Pass", "Block", "Confusion", "Ice Shard", "Magical Leaf", "Quick Guard", "Rapid Spin", "Slack Off", "Tickle", "Trick", "Wide Guard"],
+    "silver": ["Copycat", "Double Kick", "Double Slap", "Encore", "Guard Swap", "Hypnosis", "Ice Beam", "Icy Wind", "Light Screen", "Meditate", "Mimic", "Mirror Coat", "Power Swap", "Protect", "Psybeam", "Psywave", "Recycle", "Reflect", "Role Play", "Substitute"],
+    "gold": ["Dazzling Gleam", "Fake Tears", "Freeze Dry", "Misty Terrain", "Psychic", "Safeguard", "Teeter Dance"],
+    "platinum": ["Confuse Ray", "Fake Out", "Nasty Plot", "Teeter Dance", "Wake-Up Slap"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 72,
+  "name": "Tentacool",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Acid", "Constrict", "Poison Sting", "Supersonic"],
+    "silver": ["Acid Spray", "Barrier", "Brine", "Bubble Beam", "Poison Jab", "Toxic Spikes", "Water Pulse", "Wrap"],
+    "gold": ["Hex", "Hydro Pump", "Screech", "Sludge Wave", "Wring Out"],
+    "platinum": ["Aurora Beam", "Confuse Ray", "Magic Coat"],
+    "diamond": []
+  }
+}

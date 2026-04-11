@@ -1,5 +1,5 @@
 {
     "name": "Shattered Mind",
     "description": "From the Distortion we were given form, and at our ends, we will be given another.",
-    "effect": "Followers of Giratina may call upon 'Shattered Mind' once per quest as a bonus action during their combat turn, allowing them to deal guaranteed Wound damage to any target on their next attack roll. Base damage of move is increased by rank bonus."
+    "effect": "Followers of Giratina may call upon 'Shattered Mind' once per quest as a bonus action during their combat turn, allowing them to deal Wound damage to any target on their next attack roll. If the move they are using already does Wounds, then the full damage of the move is considered Wounds instead of Half after Defenses. You may use this Boon a number of times each quest equal to your Rank bonus."
 }

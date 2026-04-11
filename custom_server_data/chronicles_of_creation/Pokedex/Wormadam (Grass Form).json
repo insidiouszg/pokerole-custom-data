@@ -1,0 +1,17 @@
+{
+  "number": 413,
+  "name": "Wormadam (Grass Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Protect", "Tackle"],
+    "silver": ["Bug Bite", "Captivate", "Confusion", "Flail", "Growth", "Hidden Power", "Psybeam", "Razor Leaf"],
+    "gold": ["Attract", "Bug Buzz", "Leaf Storm", "Psychic", "Quiver Dance", "Sucker Punch"],
+    "platinum": ["Electroweb", "Giga Drain", "String Shot", "Synthesis"],
+    "diamond": []
+  }
+}

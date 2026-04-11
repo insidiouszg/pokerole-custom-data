@@ -1,0 +1,17 @@
+{
+  "number": 724,
+  "name": "Decidueye (Hisuian Form)",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Astonish", "Growl", "Leaf Storm", "Leafage", "Peck", "Tackle", "Triple Arrows", "U-Turn"],
+    "silver": ["Bulk Up", "Foresight", "Fury Attck", "Pluck", "Razor Leaf", "Shadow Sneak", "Synthesis"],
+    "gold": ["Brave Bird", "Feather Dance", "Leaf Blade", "Nasty Plot", "Sucker Punch"],
+    "platinum": ["Confuse Ray", "Curse", "Defog", "Grass Pledge", "Haze", "Knock Off"],
+    "diamond": []
+  }
+}

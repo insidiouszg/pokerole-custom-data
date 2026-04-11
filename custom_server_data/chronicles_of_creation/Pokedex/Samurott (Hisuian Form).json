@@ -1,0 +1,17 @@
+{
+  "number": 503,
+  "name": "Samurott (Hisuian Form)",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Ceaseless Edge", "Mega Horn", "Slash", "Sucker Punch", "Tackle", "Tail Whip", "Water Gun", "Water Sport"],
+    "silver": ["Aerial Ace", "Aqua Jet", "Focus Energy", "Fury Cutter", "Razor Shell", "Revenge", "Water Pulse"],
+    "gold": ["Aqua Tail","Encore", "Hydro Pump", "Retaliate", "Swords Dance"],
+    "platinum": ["Air Slash", "Aqua Cutter", "Copycat", "Detect", "Night Slash", "Water Pledge"],
+    "diamond": []
+  }
+}

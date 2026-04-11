@@ -1,0 +1,6 @@
+{
+    "name": "Golden Wallet",
+    "description": "Depending on your Rank gain Temporary Poke at the Start of combat dependent on your rank. Gold: 200 :PokeCoin: Platinum: 450 :PokeCoin: Diamond: 777 :PokeCoin: ",
+    "category": "HeldItem",
+    "single_use": false
+}

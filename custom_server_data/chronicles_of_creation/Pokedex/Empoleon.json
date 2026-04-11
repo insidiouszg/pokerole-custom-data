@@ -1,0 +1,17 @@
+{
+  "number": 395,
+  "name": "Empoleon",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/6",
+  "special": "3/7",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Bubble", "Growl", "Pound", "Swords Dance", "Tackle", "Water Sport"],
+    "silver": ["Aqua Jet", "Bide", "Brine", "Bubble Beam", "Fury Attack", "Metal Claw", "Peck", "Swagger", "Whirlpool"],
+    "gold": ["Drill Peck", "Hydro Pump", "Mist"],
+    "platinum": ["Agility", "Aqua Ring", "Feather Dance", "Flail", "Hydro Cannon", "Icy Wind", "Iron Defense", "Water Pledge"],
+    "diamond": []
+  }
+}

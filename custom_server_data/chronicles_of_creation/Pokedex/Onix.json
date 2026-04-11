@@ -1,0 +1,17 @@
+{
+  "number": 95,
+  "name": "Onix",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "4/8",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bind", "Curse", "Harden", "Mud Sport", "Rock Throw", "Tackle"],
+    "silver": ["Dig", "Dragon Breath", "Rage", "Rock Polish", "Rock Slide", "Rock Tomb", "Sand Tomb", "Screech", "Slam", "Smack Down", "Stealth Rock"],
+    "gold": ["Double-Edge", "Iron Tail", "Sandstorm", "Stone Edge"],
+    "platinum": ["Ancient Power", "Endure", "Self Destruct"],
+    "diamond": []
+  }
+}

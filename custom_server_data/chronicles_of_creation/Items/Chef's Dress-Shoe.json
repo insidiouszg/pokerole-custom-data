@@ -1,0 +1,6 @@
+{
+    "name": "Chef's Dress-Shoe",
+    "description": "All the User's Special Attacks gain __Kicking__.",
+    "category": "HeldItem",
+    "single_use": false
+}

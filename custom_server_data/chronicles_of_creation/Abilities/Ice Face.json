@@ -1,0 +1,5 @@
+{
+    "name": "Ice Face",
+    "description": "This Pokemon's face is covered by a thick block of ice that serves as a cover of its body. If it breaks it will need a very cold temperature to form it again.",
+    "effect": "The Pokemon has 2 extra HP when it is in 'Ice Face form'. If the Ice receives 2 damage, change the Pokemon's form to 'No-Ice Form'. While in 'No-Ice Form' the User has an additional 3 Base Dexterity and 1 reduced Base Defense and Special Defense. 'Ice Face Form' (and its extra HP) are restored at the end of the User's turn if either Hail Weather or Snow Weather are active. This Ability cannot be swapped, copied, replaced or nullified (ignoring the effects of Skill Swap, Worry Seed, Gastro Acid, Trace etc.)"
+}

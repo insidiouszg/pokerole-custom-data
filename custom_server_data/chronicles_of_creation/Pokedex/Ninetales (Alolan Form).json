@@ -1,0 +1,17 @@
+{
+  "number": 38,
+  "name": "Ninetales (Alolan Form)",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Baby-Doll Eyes", "Powder Snow", "Roar", "Tail Whip"],
+    "silver": ["Aurora Beam", "Confuse Ray", "Dazzling Gleam", "Extrasensory", "Feint Attack", "Hex", "Ice Beam", "Ice Shard", "Icy Wind", "Imprison", "Mist", "Nasty Plot", "Payback"],
+    "gold": ["Agility", "Blizzard", "Captivate", "Grudge", "Safeguard", "Safeguard"],
+    "platinum": ["Aurora Veil", "Freeze Dry", "Moonblast", "Spite"],
+    "diamond": []
+  }
+}

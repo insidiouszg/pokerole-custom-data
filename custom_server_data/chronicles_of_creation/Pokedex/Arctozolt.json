@@ -1,0 +1,17 @@
+{
+  "number": 881,
+  "name": "Arctozolt",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Charge", "Echoed Voice", "Powder Snow", "Thunder Shock"],
+    "silver": ["Ancient Power", "Avalanche", "Discharge", "Freeze Dry", "Pluck", "Slam"],
+    "gold": ["Blizzard", "Bolt Beak", "Icicle Crash"],
+    "platinum": ["Hail", "Stomping Tantrum", "Wild Charge"],
+    "diamond": []
+  }
+}

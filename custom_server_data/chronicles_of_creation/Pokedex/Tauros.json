@@ -1,0 +1,17 @@
+{
+  "number": 128,
+  "name": "Tauros",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Horn Attack", "Pursuit", "Rage", "Tackle", "Tail Whip"],
+    "silver": ["Payback", "Rest", "Scary Face", "Take Down", "Work Up", "Zen Headbutt"],
+    "gold": ["Giga Impact", "Swagger", "Thrash"],
+    "platinum": ["Outrage", "Sleep Talk", "Smart Strike"],
+    "diamond": []
+  }
+}

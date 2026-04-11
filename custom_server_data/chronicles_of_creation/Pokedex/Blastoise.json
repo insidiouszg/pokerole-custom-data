@@ -1,0 +1,17 @@
+{
+  "number": 9,
+  "name": "Blastoise",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Tackle", "Tail Whip", "Water Gun", "Withdraw"],
+    "silver": ["Aqua Tail", "Bite", "Bubble", "Flash Cannon", "Protect", "Rapid Spin", "Water Pulse"],
+    "gold": ["Hydro Pump", "Iron Defense", "Rain Dance", "Skull Bash"],
+    "platinum": ["Aqua Jet", "Hydro Cannon", "Icy Wind", "Mud Sport", "Outrage", "Water Pledge", "Zap Cannon"],
+    "diamond": []
+  }
+}

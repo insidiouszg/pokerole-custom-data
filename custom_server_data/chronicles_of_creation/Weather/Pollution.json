@@ -1,0 +1,5 @@
+{
+    "name": "Pollution",
+    "description": "A noxious smog has flowed onto the battle field, just a sniff and it already leaves your body feeling weak.",
+    "effect": "- All attacks gain 2 Chance Dice to inflict Poison on a Target.\n- When attacking a target that is already Poisoned, roll 1 Chance die equal to the number of turns they have been suffering from Poison, if this roll succeeds the Poison becomes Badly Poisoned.\n- All Poison Immunities become Resistances. Ignore all Immunities to Poison and Badly Poison Status.\n- Poison Types instead heal 1 HP when Poisoned for the duration of the Weather."
+}

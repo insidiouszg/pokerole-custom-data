@@ -1,0 +1,17 @@
+{
+  "number": 565,
+  "name": "Carracosta",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "1/3",
+  "vitality": "4/8",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bide", "Bite", "Protect", "Rollout", "Water Gun", "Withdraw"],
+    "silver": ["Ancient Power", "Aqua Jet", "Aqua Tail", "Brine", "Crunch", "Curse", "Smack Down", "Wide Guard"],
+    "gold": ["Hydro Pump", "Rain Dance", "Rock Slide", "Shell Smash"],
+    "platinum": ["Body Slam", "Guard Split", "Iron Defense", "Iron Head", "Stealth Rock"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 106,
+  "name": "Hitmonlee",
+  "base_hp": 4,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Double Kick", "Jump Kick", "Meditate", "Revenge", "Rolling Kick", "Tackle"],
+    "silver": ["Blaze Kick", "Brick Break", "Fake Out", "Feint", "Focus Energy", "Foresight", "Helping Hand", "High Jump Kick", "Mind Reader", "Wide Guard"],
+    "gold": ["Close Combat", "Endure", "Mega Kick", "Reversal"],
+    "platinum": ["Bounce", "Mach Punch", "Rapid Spin", "Role Play", "Seismic Toss", "Work Up"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Pulsar's Sights",
+    "description": "All the User's Special Attacks gain __Pulse Move__.",
+    "category": "HeldItem",
+    "single_use": false
+}

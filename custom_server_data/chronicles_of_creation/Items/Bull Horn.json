@@ -1,0 +1,6 @@
+{
+    "name": "Bull Horn",
+    "description": "The User gains +1 Power to all __Sound Based__ moves. __Sound Based__ based moves ignore the effects of Screens while this item is held",
+    "category": "HeldItem",
+    "single_use": false
+}

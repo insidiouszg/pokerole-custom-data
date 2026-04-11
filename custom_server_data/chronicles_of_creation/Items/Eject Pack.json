@@ -1,0 +1,6 @@
+{
+    "name": "Eject Pack",
+    "description": "When the Pokemon's uses a __Switcher__ move they may chose to instead give +1 Evasion to a separate Pokemon until this Pokemon’s next action.",
+    "category": "HeldItem",
+    "single_use": false
+}

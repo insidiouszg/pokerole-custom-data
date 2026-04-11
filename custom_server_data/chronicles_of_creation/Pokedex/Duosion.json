@@ -1,0 +1,17 @@
+{
+  "number": 578,
+  "name": "Duosion",
+  "base_hp": 5,
+  "strength": "1/3",
+  "dexterity": "1/3",
+  "vitality": "2/4",
+  "special": "3/7",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Psywave", "Reflect", "Rollout", "Snatch"],
+    "silver": ["Charm", "Endeavor", "Hidden Power", "Light Screen", "Pain Split", "Psychic", "Psyshock", "Recover"],
+    "gold": ["Future Sight", "Heal Block", "Skill Swap", "Wonder Room"],
+    "platinum": ["Acid Armor", "Confuse Ray", "Night Shade"],
+    "diamond": []
+  }
+}

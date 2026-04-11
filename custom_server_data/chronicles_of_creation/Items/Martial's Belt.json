@@ -1,0 +1,6 @@
+{
+    "name": "Martial's Belt",
+    "description": "All the User's Special Attacks gain __Striking__.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Double Action.",
+  "effect": "Striking. Double Action.",
   "description": "The Pokemon strikes the foe with brutal blows.",
   "category": "Physical"
 }

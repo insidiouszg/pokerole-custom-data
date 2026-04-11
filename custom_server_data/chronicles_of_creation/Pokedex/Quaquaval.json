@@ -1,0 +1,17 @@
+{
+  "number": 914,
+  "name": "Quaquaval",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Double Hit", "Growl", "Pound", "Water Gun", "Wing Attack", "Work Up"],
+    "silver": ["Air Slash", "Aqua Cutter", "Aqua Jet", "Focus Energy", "Low Sweep", "Water Pulse"],
+    "gold": ["Acrobatics", "Aqua Step", "Close Combat", "Feather Dance", "Liquidation", "Mega Kick", "Wace Crash"],
+    "platinum": ["Detect", "Last Resort", "Rapid Spin", "Roost"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "number": 389,
+  "name": "Torterra",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Absorb", "Tackle", "Withdraw"],
+    "silver": ["Bite", "Curse", "Earthquake", "Leech Seed", "Mega Drain", "Razor Leaf", "Synthesis"],
+    "gold": ["Crunch", "Giga Drain", "Leaf Storm", "Wood Hammer"],
+    "platinum": ["Frenzy Plant", "Grass Pledge", "Grassy Terrain", "Mud Slap", "Outrage", "Seed Bomb", "Superpower", "Wide Guard"],
+    "diamond": []
+  }
+}

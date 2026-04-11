@@ -1,0 +1,17 @@
+{
+  "number": 108,
+  "name": "Lickitung",
+  "base_hp": 6,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Defense Curl", "Knock Off", "Lick", "Supersonic"],
+    "silver": ["Chip Away", "Disable", "Me First", "Rollout", "Slam", "Stomp", "Wrap"],
+    "gold": ["Power Whip", "Refresh", "Screech", "Wring Out"],
+    "platinum": ["Aqua Tail", "Belly Drum", "Zen Headbutt"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Neutralizing Gas",
+    "description": "The Pokemon is surrounded by a sweet-smelling but noxious gas. Most poeple and Pokemon can't help but to stop and smell it, though.",
+    "effect": "As a Free Action on their turn, this Pokemon can nullify a Target's Ability for the next two Rounds. They may do this a number of times equal to their Rank Bonus. If the User is Luminary Rank or higher, the User may expend two Charges of this ability and their Bonus Action at the start of the Round once per battle to nullify everyone's abilities for two Rounds."
+}

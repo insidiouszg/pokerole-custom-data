@@ -1,0 +1,17 @@
+{
+  "number": 362,
+  "name": "Glalie",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Double Team", "Leer", "Powder Snow"],
+    "silver": ["Freeze Dry", "Frost Breath", "Headbutt", "Ice Beam", "Ice Fang", "Icy Wind", "Protect"],
+    "gold": ["Blizzard", "Crunch", "Hail", "Sheer Cold"],
+    "platinum": ["Fake Tears", "Iron Head", "Rollout", "Water Pulse", "Weather Ball"],
+    "diamond": []
+  }
+}

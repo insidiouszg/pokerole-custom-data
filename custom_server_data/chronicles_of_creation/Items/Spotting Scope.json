@@ -1,0 +1,6 @@
+{
+    "name": "Spotting Scope",
+    "description": "The User gains +1 Power to all __Ranged__ moves. On Critical Hits, __Ranged__ Moves gain +1 Power with this item equipped",
+    "category": "HeldItem",
+    "single_use": false
+}

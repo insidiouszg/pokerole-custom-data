@@ -1,0 +1,17 @@
+{
+  "number": 628,
+  "name": "Braviary",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Fury Attack", "Leer", "Peck", "Wing Attack"],
+    "silver": ["Aerial Ace", "Air Slash", "Crush Claw", "Defog", "Hone Claws", "Scary Face", "Sky Drop", "Slash", "Tailwind"],
+    "gold": ["Brave Bird", "Superpower", "Thrash", "Whirlwind"],
+    "platinum": ["Heat Wave", "Hurricane", "Pluck", "Sky Attack"],
+    "diamond": []
+  }
+}

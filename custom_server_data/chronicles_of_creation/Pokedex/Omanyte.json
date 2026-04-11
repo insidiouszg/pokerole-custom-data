@@ -1,0 +1,17 @@
+{
+  "number": 138,
+  "name": "Omanyte",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "1/3",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bite", "Constrict", "Rollout", "Water Gun", "Withdraw"],
+    "silver": ["Ancient Power", "Brine", "Leer", "Mud Shot", "Protect","Tickle"],
+    "gold": ["Hydro Pump", "Rock Blast", "Shell Smash"],
+    "platinum": ["Iron Defense", "Spikes", "Toxic Spikes"],
+    "diamond": []
+  }
+}
