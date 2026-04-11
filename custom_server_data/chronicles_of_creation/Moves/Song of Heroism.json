@@ -3,9 +3,9 @@
     "type": "Typeless",
     "power": 0,
     "damage": "",
-    "accuracy": "Social Stat",
+    "accuracy": "Beauty",
     "target": "User and Allies",
-    "effect": "Sound Based. Grants the User and all Allies the effects of Helping Hand on their next action. Costs 1 Will to use.",
+    "effect": "Sound Based. Grants the User and all Allies the effects of Helping Hand on their next action. Costs 1 Will to use. User may use any Social Stat to roll accuracy for this move.",
     "description": "You inspire the wills of your allies~",
     "category": "Support"
 }
