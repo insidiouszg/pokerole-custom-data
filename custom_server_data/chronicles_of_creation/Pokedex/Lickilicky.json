@@ -1,0 +1,17 @@
+{
+  "number": 463,
+  "name": "Lickilicky",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Defense Curl", "Lick", "Supersonic"],
+    "silver": ["Disable", "Knock Off", "Slam", "Stomp", "Wrap"],
+    "gold": ["Chip Away", "Me First", "Refresh", "Rollout"],
+    "platinum": ["Aqua Tail", "Belly Drum", "Power Whip", "Screech", "Wring Out", "Zen Headbutt"],
+    "diamond": []
+  }
+}

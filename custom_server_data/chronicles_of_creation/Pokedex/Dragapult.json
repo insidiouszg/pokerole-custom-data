@@ -1,0 +1,17 @@
+{
+  "number": 887,
+  "name": "Dragapult",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "4/8",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Astonish", "Bite", "Infestation", "Quick Attack"],
+    "silver": ["Agility", "Assurance", "Double Hit", "Dragon Breath", "Dance Dance", "Dragon Dart", "Dragon Pulse", "Hex", "Lock-On", "U-Turn"],
+    "gold": ["Double-Edge", "Dragon Rush", "Last Resort", "Phantom Force", "Sucker Punch", "Take Down"],
+    "platinum": ["Confuse Ray", "Double Team", "Dragon Meteor", "Dragon Tail", "Light Screen", "Reflect", "Substitute"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Open Palm",
+    "description": "While your fist is open, your strikes hit harder.",
+    "effect": "The User's 'Striking' moves deal 1 additional damage."
+}

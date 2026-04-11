@@ -1,0 +1,6 @@
+{
+    "name": "Metal Boot",
+    "description": "The User gains +1 Power to all __Kicking__ moves. __Kicking__ based moves do not make contact while this item is held",
+    "category": "HeldItem",
+    "single_use": false
+}

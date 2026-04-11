@@ -1,0 +1,17 @@
+{
+  "number": 538,
+  "name": "Throh",
+  "base_hp": 7,
+  "strength": "3/6",
+  "dexterity": "1/3",
+  "vitality": "2/5",
+  "special": "1/3",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bide", "Bind", "Focus Energy", "Leer", "Seismic Toss"],
+    "silver": ["Body Slam", "Bulk Up", "Endure", "Mat Block", "Revenge", "Storm Throw", "Vital Throw"],
+    "gold": ["Circle Throw", "Reversal", "Superpower", "Wide Guard"],
+    "platinum": ["Fire Punch", "Ice Punch", "Thunder Punch"],
+    "diamond": []
+  }
+}

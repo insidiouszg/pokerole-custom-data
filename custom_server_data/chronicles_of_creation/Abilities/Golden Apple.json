@@ -1,0 +1,5 @@
+{
+    "name": "Golden Apple",
+    "description": "You know how to use your Poke for maximum value!",
+    "effect": "At the start of your turn, you can expend Poke for one of the Following Effects. For the Effects where you produce items you require inventory space for the item, and the item is lost at the end of Combat.\n- 25 Poke: You can boost the Healing of 1 of your Items by 1.\n- 50 Poke: You can produce a Type Gem.\n- 75 Poke: You can produce a Sitrus or Lum Berry.\n- 100 Poke: You can produce a Stat Increasing Berry.\n- 777 Poke: Roll your Rank in Chance Dice, on a success, you gain the effects of a Golden Seed. This can stack with itself infinitely."
+}

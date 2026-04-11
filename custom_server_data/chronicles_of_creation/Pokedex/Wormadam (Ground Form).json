@@ -1,0 +1,17 @@
+{
+  "number": 413,
+  "name": "Wormadam (Ground Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Protect", "Tackle"],
+    "silver": ["Bug Bite", "Captivate", "Confusion", "Flail", "Harden", "Hidden Power", "Psybeam", "Rock Blast"],
+    "gold": ["Attract", "Bug Buzz", "Fissure", "Psychic", "Quiver Dance", "Sucker Punch"],
+    "platinum": ["Electroweb", "Stealth Rock", "String Shot", "Synthesis"],
+    "diamond": []
+  }
+}

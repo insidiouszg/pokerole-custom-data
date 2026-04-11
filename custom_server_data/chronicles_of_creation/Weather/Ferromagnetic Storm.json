@@ -1,0 +1,5 @@
+{
+    "name": "Ferromagnetic Storm",
+    "description": "The magnetism in this area is heightened beyond belief. You can almost feel yourself being pulled to the nearest metallic object.",
+    "effect": "- All Pokemon who aren't Steel, Electric or Rock typed suffer -1 Dexterity.\n- Steel Types gain the effects of Magnet Rise.\n- Steel, Ground and Water Types take 1 Less damage from attacks."
+}

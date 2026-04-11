@@ -1,0 +1,6 @@
+{
+    "name": "Rhythmic Cleaver",
+    "description": "All the User's Physical Attacks gain __Sound Based__.",
+    "category": "HeldItem",
+    "single_use": false
+}

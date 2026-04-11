@@ -1,0 +1,17 @@
+{
+  "number": 139,
+  "name": "Omastar",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Constrict", "Rollout", "Water Gun", "Withdraw"],
+    "silver": ["Ancient Power", "Brine", "Leer", "Mud Shot", "Protect", "Spike Cannon", "Tickle"],
+    "gold": ["Hydro Pump", "Rock Blast", "Shell Smash"],
+    "platinum": ["Iron Defense", "Spikes", "Toxic Spikes"],
+    "diamond": []
+  }
+}

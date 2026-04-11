@@ -1,0 +1,17 @@
+{
+  "number": 863,
+  "name": "Perrserker",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Fake Out", "Growl", "Hone Claws", "Iron Defense", "Iron Head", "Metal Burst", "Scratch"],
+    "silver": ["Fury Swipes", "Metal Claw", "Pay Day", "Screech", "Swagger", "Taunt"],
+    "gold": ["Metal Sound", "Slash", "Thrash"],
+    "platinum": ["Curse", "Double-Edge", "Night Slash", "Steel Beam", "Swords Dance", "Throat Chop"],
+    "diamond": []
+  }
+}

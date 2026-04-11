@@ -1,0 +1,17 @@
+{
+  "number": 143,
+  "name": "Snorlax",
+  "base_hp": 8,
+  "strength": "3/7",
+  "dexterity": "1/3",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Amnesia", "Defense Curl", "Lick", "Metronome", "Odor Sleuth", "Snatch", "Tackle", "Yawn"],
+    "silver": ["Block", "Body Slam", "Chip Away", "Crunch", "Fling", "Rest", "Rollout", "Screech", "Sleep Talk", "Snore", "Stockpile", "Swallow"],
+    "gold": ["Belly Drum", "Giga Impact", "Heavy Slam", "High Horsepower", "Last Resort", "Natural Gift"],
+    "platinum": ["Belch", "Charm", "Gunk Shot", "Outrage", "Self Destruct", "Zen Headbutt"],
+    "diamond": []
+  }
+}

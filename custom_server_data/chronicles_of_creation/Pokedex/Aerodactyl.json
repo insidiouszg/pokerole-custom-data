@@ -1,0 +1,17 @@
+{
+  "number": 142,
+  "name": "Aerodactyl",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "4/8",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Scary Face", "Supersonic", "Take Down", "Wing Attack"],
+    "silver": ["Agility", "Crunch", "Fire Fang", "Ice Fang", "Iron Head", "Roar", "Sky Drop", "Thunder Fang"],
+    "gold": ["Giga Impact", "Hyper Beam", "Rock Slide"],
+    "platinum": ["Aqua Tail", "Dragon Breath", "Roost"],
+    "diamond": []
+  }
+}

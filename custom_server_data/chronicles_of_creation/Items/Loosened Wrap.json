@@ -1,0 +1,6 @@
+{
+    "name": "Loosened Wrap",
+    "description": "The User gains +1 Power to all __Priority__ and __Reaction__ Attacking moves. If the User is the first to attack with a __Priority__ or __Reaction__ Move in the Round deal +1 Additional Damage with this item is equipped",
+    "category": "HeldItem",
+    "single_use": false
+}

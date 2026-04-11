@@ -1,0 +1,17 @@
+{
+  "number": 350,
+  "name": "Milotic",
+  "base_hp": 7,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Refresh", "Splash", "Water Gun", "Water Sport", "Wrap"],
+    "silver": ["Aqua Ring", "Aqua Tail", "Attract", "Captivate", "Disarming Voice", "Dragon Tail", "Flail", "Recover", "Tackle", "Twister", "Water Pulse"],
+    "gold": ["Brine", "Coil", "Hydro Pump", "Rain Dance", "Safeguard"],
+    "platinum": ["Dive", "Dragon Pulse", "Hypnosis", "Magic Coat", "Mud Sport"],
+    "diamond": []
+  }
+}

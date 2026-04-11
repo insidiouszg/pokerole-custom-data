@@ -1,0 +1,17 @@
+{
+  "number": 727,
+  "name": "Incineroar",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Ember", "Growl", "Leer", "Lick", "Scratch"],
+    "silver": ["Bite", "Bulk Up", "Darkest Lariat", "Fire Fang", "Flamethrower", "Fury Attack", "Fury Swipes", "Roar", "Swagger", "Thrash", "Throat Chop"],
+    "gold": ["Cross Chop", "Flare Blitz", "Outrage", "Scary Face"],
+    "platinum": ["Blast Burn", "Crunch", "Fake Out", "Fire Pledge", "Nasty Plot", "Revenge"],
+    "diamond": []
+  }
+}

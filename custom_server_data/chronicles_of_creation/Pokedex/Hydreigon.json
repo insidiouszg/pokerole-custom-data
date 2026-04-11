@@ -1,0 +1,17 @@
+{
+  "number": 635,
+  "name": "Hydreigon",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "4/8",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Double Hit", "Dragon Rage", "Focus Energy", "Tackle", "Tri Attack"],
+    "silver": ["Crunch", "Dragon Breath", "Dragon Pulse", "Dragon Rush", "Headbutt", "Roar", "Slam", "Work Up"],
+    "gold": ["Body Slam", "Hyper Voice", "Outrage", "Scary Face"],
+    "platinum": ["Draco Meteor", "Earth Power", "Fire Fang", "Head Smash", "Heat Wave", "Thunder Fang"],
+    "diamond": []
+  }
+}

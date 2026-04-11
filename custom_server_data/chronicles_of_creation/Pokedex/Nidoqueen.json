@@ -1,0 +1,17 @@
+{
+  "number": 31,
+  "name": "Nidoqueen",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Double Kick", "Growl", "Scratch", "Tail Whip"],
+    "silver": ["Bite", "Body Slam", "Chip Away", "Fury Swipes", "Helping Hand", "Poison Fang", "Poison Sting", "Toxic Spikes"],
+    "gold": ["Captivate", "Crunch", "Earth Power", "Flatter", "Poison Tail", "Shock Wave"],
+    "platinum": ["Charm", "Icy Wind", "Lovely Kiss", "Moonlight", "Superpower"],
+    "diamond": []
+  }
+}

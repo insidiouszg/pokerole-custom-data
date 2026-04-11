@@ -1,0 +1,17 @@
+{
+  "number": 765,
+  "name": "Oranguru",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["After You", "Confusion", "Quash", "Taunt"],
+    "silver": ["Calm Mind", "Feint Attack", "Foul Play", "Instruct", "Nasty Plot", "Psych Up", "Stored Power", "Zen Headbutt"],
+    "gold": ["Future Sight", "Psychic", "Trick Room"],
+    "platinum": ["Extrasensory", "Psychic Terrain", "Wonder Room"],
+    "diamond": []
+  }
+}

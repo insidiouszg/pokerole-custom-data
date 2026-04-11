@@ -1,0 +1,17 @@
+{
+  "number": 631,
+  "name": "Heatmor",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bind", "Hone Claws", "Incinerate", "Lick", "Odor Sleuth", "Tackle"],
+    "silver": ["Amnesia", "Bug Bite", "Fire Lash", "Fire Spin", "Flame Burst", "Flamethrower", "Fury Swipes", "Slash", "Snatch"],
+    "gold": ["Flare Blitz", "Inferno", "Spit Up", "Stockpile", "Swallow"],
+    "platinum": ["Fire Punch", "Night Slash", "Thunder Punch"],
+    "diamond": []
+  }
+}

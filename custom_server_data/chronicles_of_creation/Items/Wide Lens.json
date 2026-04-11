@@ -1,0 +1,6 @@
+{
+    "name": "Wide Lens",
+    "description": "The User's Moves gain +2 Accuracy Dice.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -1,0 +1,17 @@
+{
+  "number": 503,
+  "name": "Samurott",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Tackle", "Tail Whip", "Water Gun", "Water Sport"],
+    "silver": ["Aqua Jet", "Encore", "Focus Energy", "Fury Cutter", "Razor Shell", "Revenge", "Slash", "Water Pulse"],
+    "gold": ["Aqua Tail", "Hydro Pump", "Megahorn", "Retaliate", "Swords Dance"],
+    "platinum": ["Air Slash", "Detect", "Hydro Cannon", "Night Slash", "Smart Strike", "Water Pledge"],
+    "diamond": []
+  }
+}

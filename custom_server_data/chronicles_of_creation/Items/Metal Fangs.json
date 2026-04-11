@@ -1,0 +1,6 @@
+{
+    "name": "Metal Fangs",
+    "description": "The User gains +1 Power to all __Biting__ moves. __Biting__ based moves do not make contact while this item is held",
+    "category": "HeldItem",
+    "single_use": false
+}

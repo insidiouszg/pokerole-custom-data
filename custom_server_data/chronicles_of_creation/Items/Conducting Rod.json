@@ -1,0 +1,6 @@
+{
+    "name": "Conducting Rod",
+    "description": "The User gains +1 Power to all __Contact__ moves.  On Critical Hits, __Contact__ Moves gain +1 Power with this item equipped",
+    "category": "HeldItem",
+    "single_use": false
+}

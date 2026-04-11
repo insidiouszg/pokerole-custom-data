@@ -1,0 +1,6 @@
+{
+    "name": "Sharpening Stone",
+    "description": "The User gains +1 Power to all __Slicing__ moves. __Slicing__ based gain an Additional +1 Power if the move used is Super Effective (+1 or +2) while this item is equipped.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -1,0 +1,17 @@
+{
+  "number": 697,
+  "name": "Tyrantrum",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Ancient Power", "Roar", "Tackle", "Tail Whip"],
+    "silver": ["Bite", "Charm", "Crunch", "Dragon Claw", "Rock Slide", "Stomp"],
+    "gold": ["Earthquake", "Giga Impact", "Head Smash", "Horn Drill", "Thrash"],
+    "platinum": ["Dragon Dance", "Fire Fang", "Ice Fang", "Outrage", "Poison Fang", "Thunder Fang"],
+    "diamond": []
+  }
+}

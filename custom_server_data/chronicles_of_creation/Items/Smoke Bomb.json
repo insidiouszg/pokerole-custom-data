@@ -1,0 +1,6 @@
+{
+    "name": "Smoke Bomb",
+    "description": "The user cannot be __Blocked__.",
+    "category": "HeldItem",
+    "single_use": false
+}

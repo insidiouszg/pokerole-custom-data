@@ -1,0 +1,17 @@
+{
+  "number": 107,
+  "name": "Hitmonchan",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "1/3",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Agility", "Comet Punch", "Foresight", "Mach Punch", "Pursuit", "Revenge", "Tackle"],
+    "silver": ["Bullet Punch", "Fake Out", "Feint", "Fire Punch", "Helping Hand", "Ice Punch", "Mega Punch", "Quick Guard", "Sky Uppercut", "Thunder Punch", "Vacuum Wave"],
+    "gold": ["Close Combat", "Counter", "Detect", "Focus Punch"],
+    "platinum": ["Drain Punch", "High Jump Kick", "Rapid Spin", "Role Play", "Seismic Toss", "Work Up"],
+    "diamond": []
+  }
+}

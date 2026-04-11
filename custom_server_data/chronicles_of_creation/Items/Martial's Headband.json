@@ -1,0 +1,6 @@
+{
+    "name": "Martial's Headband",
+    "description": "All the User's Physical Attacks gain __Striking__.",
+    "category": "HeldItem",
+    "single_use": false
+}

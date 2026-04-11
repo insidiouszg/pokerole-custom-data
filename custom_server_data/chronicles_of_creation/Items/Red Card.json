@@ -1,0 +1,6 @@
+{
+    "name": "Red Card",
+    "description": "When the Pokemon is hit by an attack or when this item is thrown by Fling, attach it to the targeted Pokemon. For the Rest of the Battle all moves gain +2 Accuracy Dice against them.",
+    "category": "HeldItem",
+    "single_use": true
+}

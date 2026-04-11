@@ -1,0 +1,17 @@
+{
+  "number": 500,
+  "name": "Emboar",
+  "base_hp": 7,
+  "strength": "4/8",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Ember", "Odor Sleuth", "Roar", "Tackle", "Tail Whip"],
+    "silver": ["Arm Thrust", "Assurance", "Defense Curl", "Flame Charge", "Heat Crash", "Rollout", "Smog", "Take Down"],
+    "gold": ["Flamethrower", "Flare Blitz", "Hammer Arm", "Head Smash"],
+    "platinum": ["Blast Burn", "Body Slam", "Fire Pledge", "Heavy Slam", "Sucker Punch", "Thunder Punch"],
+    "diamond": []
+  }
+}

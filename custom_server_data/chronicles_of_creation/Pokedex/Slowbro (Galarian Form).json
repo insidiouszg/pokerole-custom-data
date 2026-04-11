@@ -1,0 +1,17 @@
+{
+  "number": 80,
+  "name": "Slowbro (Galarian Form)",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "1/3",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Acid Spray", "Acid", "Curse", "Growl", "Shell Side Arm", "Tackle", "Withdraw", "Yawn"],
+    "silver": ["Amnesia",  "Confusion", "Disable", "Headbutt", "Water Pulse", "Zen Headbutt"],
+    "gold": ["Heal Pulse", "Psych Up", "Psychic", "Rain Dance", "Slack Off, Surf"],
+    "platinum": ["Belch", "Expanding Force", "Flamethrower", "Foul Play", "Venoshock"],
+    "diamond": []
+  }
+}

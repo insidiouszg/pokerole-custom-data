@@ -1,0 +1,5 @@
+{
+    "name": "Big Lungs",
+    "description": "Let them hear your voice~",
+    "effect": "The User's 'Sound Based' moves deal 1 additional damage. In addition, Support Sound Based Moves they use gain +1 Accuracy and raise or lower an additional stat. (A singular +/-1 to a stat that wasn't already affected by the move, which only occurs when a stat change occurs due to the move)"
+}

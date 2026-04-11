@@ -1,0 +1,17 @@
+{
+  "number": 122,
+  "name": "Mr. Mime (Galarian Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Ally Switch", "Barrier", "Baton Pass", "Confusion", "Double Slap", "Ice Shard", "Meditate", "Pound", "Rapid Spin", "Tickle"],
+    "silver": ["Copycat", "Double Kick", "Encore", "Hypnosis", "Ice Beam", "Icy Wind", "Light Screen", "Mimic", "Mirror Coat", "Protect", "Psybeam", "Recycle", "Reflect", "Role Play", "Substitute", "Trick"],
+    "gold": ["Dazzling Gleam", "Freeze Dry", "Misty Terrain", "Psychic", "Safeguard", "Sucker Punch", "Teeter Dance"],
+    "platinum": ["Hail", "Nasty Plot", "Rain Dance", "Wake-Up Slap"],
+    "diamond": []
+  }
+}

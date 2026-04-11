@@ -1,0 +1,5 @@
+{
+    "name": "Locust Swarm",
+    "description": "A swarm of bugs that get into every nook and cranny of the battlefield. They're constant bugging just makes the conditions everyone is fighting in worse.",
+    "effect": "- Bug Type Pokemon gain +1 Dexterity for the Duration.\n- Offenseive Support moves used by Bug, Poison and Grass type Pokemon deal damage equal to Half Rank (Round Up).\n- Deals Bug Type Damage to each Pokemon at the end of Each Round equal to Half the Round Timer of the Weather (Round Up), this is resisted by Defense and affected by all the normal Resistance rules."
+}

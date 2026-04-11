@@ -1,0 +1,17 @@
+{
+  "number": 784,
+  "name": "Kommo-o",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "4/8",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Bide", "Leer", "Protect", "Tackle"],
+    "silver": ["Dragon Claw", "Dragon Tail", "Headbutt", "Iron Defense", "Noble Roar", "Scary Face", "Screech", "Sky Uppercut", "Work Up"],
+    "gold": ["Autotomize", "Belly Drum", "Clanging Scales", "Dragon Dance", "Outrage"],
+    "platinum": ["Counter", "Draco Meteor", "Dragon Breath", "Flash Cannon", "Focus Blast", "Reversal"],
+    "diamond": []
+  }
+}

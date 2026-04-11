@@ -1,0 +1,17 @@
+{
+  "number": 242,
+  "name": "Blissey",
+  "base_hp": 12,
+  "strength": "1/2",
+  "dexterity": "2/4",
+  "vitality": "1/2",
+  "special": "2/5",
+  "insight": "4/8",
+  "moves": {
+    "bronze": ["Charm", "Copycat", "Defense Curl", "Double Slap", "Growl", "Pound", "Refresh", "Tail Whip"],
+    "silver": ["Bestow", "Fling", "Heal Pulse", "Minimize", "Sing", "Soft Boiled", "Sweet Kiss", "Take Down"],
+    "gold": ["Double-Edge", "Egg Bomb", "Healing Wish", "Light Screen"],
+    "platinum": ["Drain Punch", "Heal Bell", "Helping Hand", "Last Resort", "Metronome", "Present", "Seismic Toss"],
+    "diamond": []
+  }
+}

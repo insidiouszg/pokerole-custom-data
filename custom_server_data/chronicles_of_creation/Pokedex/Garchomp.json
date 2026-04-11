@@ -1,0 +1,17 @@
+{
+  "number": 445,
+  "name": "Garchomp",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "3/7",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Dragon Rage", "Sand Attack", "Tackle"],
+    "silver": ["Crunch", "Dig", "Dragon Claw", "Dual Chop", "Fire Fang", "Sand Tomb", "Sandstorm", "Slash", "Take Down"],
+    "gold": ["Dragon Rush"],
+    "platinum": ["Aqua Tail", "Dragon Meteor", "Iron Head", "Metal Claw", "Outrage", "Scary Face"],
+    "diamond": []
+  }
+}

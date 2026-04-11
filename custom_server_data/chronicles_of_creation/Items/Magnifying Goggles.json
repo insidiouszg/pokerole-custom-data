@@ -1,0 +1,6 @@
+{
+    "name": "Magnifying Goggles ",
+    "description": "The User gains +1 Power to all __Pulse Move__ damaging attacks. __Pulse Move__ attacks gain an Additional +1 Power if the move used is Super Effective (+1 or +2) while this item is equipped.",
+    "category": "HeldItem",
+    "single_use": false
+}

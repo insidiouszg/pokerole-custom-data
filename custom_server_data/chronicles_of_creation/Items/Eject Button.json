@@ -1,0 +1,6 @@
+{
+    "name": "Eject Button",
+    "description": "Whenever the User uses a __Switcher__ Move the evasion gained becomes permanent but they cannot gain evasion from other sources.",
+    "category": "HeldItem",
+    "single_use": false
+}

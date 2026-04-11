@@ -1,0 +1,17 @@
+{
+  "number": 34,
+  "name": "Nidoking",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Double Kick", "Focus Energy", "Leer", "Peck", "Poison Sting"],
+    "silver": ["Chip Away", "Earth Power", "Fury Attack", "Helping Hand", "Horn Attack", "Poison Jab", "Toxic Spikes"],
+    "gold": ["Captivate", "Drill Run", "Flatter", "Horn Drill", "Megahorn"],
+    "platinum": ["Confusion", "Head Smash", "Lovely Kiss", "Morning Sun", "Poison Tail", "Smart Strike", "Thrash"],
+    "diamond": []
+  }
+}

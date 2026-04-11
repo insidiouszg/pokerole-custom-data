@@ -1,0 +1,17 @@
+{
+  "number": 59,
+  "name": "Arcanine",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Ember", "Helping Hand", "Leer", "Odor Sleuth", "Roar"],
+    "silver": ["Agility", "Fire Fang", "Flame Burst", "Flame Wheel", "Flamethrower", "Retaliate", "Reversal", "Take Down", "Thunder Fang"],
+    "gold": ["Burn Up", "Crunch", "Extreme Speed", "Flare Blitz", "Heat Wave", "Outrage"],
+    "platinum": ["Charm", "Close Combat", "Dragon Pulse", "Howl", "Morning Sun", "Wild Charge"],
+    "diamond": []
+  }
+}

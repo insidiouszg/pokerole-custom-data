@@ -1,0 +1,5 @@
+{
+    "name": "Competitive",
+    "description": "This Pokemon's determination grows in the face of adversity. It is always trying to compete with those around it.",
+    "effect": "The first time this Pokemon is afflicted with a negative Stat Change during battle, increase the User's Base Special by 2."
+}

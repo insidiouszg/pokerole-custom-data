@@ -1,0 +1,17 @@
+{
+  "number": 59,
+  "name": "Arcanine (Hisuian Form)",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Bite", "Ember", "Leer", "Roar"],
+    "silver": ["Accelerock", "Flame Wheel", "Iron Tail", "Odor Sleuth", "Take Down"],
+    "gold": ["Ancient Power", "Crunch", "Fire Fang", "Flamethrower", "Flare Blitz", "Lava Plume", "Morning Sun", "Play Rough", "Power Gem", "Raging Fury", "Rock Slide", "Thunder Fang", "Work Up"],
+    "platinum": ["Dig", "Flame Charge", "Meteor Beam", "Outrage", "Rock Smash", "Scorching Sands", "Wild Charge"],
+    "diamond": []
+  }
+}

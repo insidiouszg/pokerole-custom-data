@@ -1,0 +1,17 @@
+{
+  "number": 812,
+  "name": "Rillaboom",
+  "base_hp": 7,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Double Hit", "Drum Beating", "Grassy Terrain", "Noble Roar"],
+    "silver": ["Branch Poke", "Growl", "Razor Leaf", "Scratch", "Screech", "Taunt"],
+    "gold": ["Boomburst", "Endeavor", "Knock Off", "Slam", "Uproar", "Wood Hammer"],
+    "platinum": ["Acrobatics", "Fake Out", "Frenzy Plant", "Grass Pledge", "Growth", "Leech Seed", "Nature Power"],
+    "diamond": []
+  }
+}

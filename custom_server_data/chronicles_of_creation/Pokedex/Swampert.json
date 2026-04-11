@@ -1,0 +1,17 @@
+{
+  "number": 260,
+  "name": "Swampert",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Growl", "Mud Slap", "Tackle", "Water Gun"],
+    "silver": ["Bide", "Foresight", "Mud Bomb", "Mud Shot", "Mud Sport", "Muddy Water", "Rock Slide", "Rock Throw", "Take Down", "Whirlpool"],
+    "gold": ["Earthquake", "Endeavor", "Hammer Arm", "Hydro Pump", "Protect"],
+    "platinum": ["Aqua Tail", "Avalanche", "Dynamic Punch", "Hydro Cannon", "Ice Ball", "Ice Punch", "Water Pledge", "Wide Guard"],
+    "diamond": []
+  }
+}

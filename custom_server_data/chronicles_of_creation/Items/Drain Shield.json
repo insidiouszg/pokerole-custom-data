@@ -1,0 +1,6 @@
+{
+    "name": "Drain Shield",
+    "description": "When the user is hit with a __Draining Move__ the user takes one less damage and the enemy heals 1 less HP.",
+    "category": "HeldItem",
+    "single_use": false
+}

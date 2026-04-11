@@ -1,0 +1,17 @@
+{
+  "number": 815,
+  "name": "Cinderace",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Feint", "Growl", "Pyro Ball", "Tackle"],
+    "silver": ["Agility", "Double Kick", "Ember", "Flame Charge", "Quick Attack"],
+    "gold": ["Bounce", "Counter", "Court Change", "Double-Edge", "Headbutt"],
+    "platinum": ["Blast Burn", "Fire Pledge", "High Jump Kick", "Mega Kick", "Sand Attack", "Sucker Punch", "Super Fang", "Work Up"],
+    "diamond": []
+  }
+}

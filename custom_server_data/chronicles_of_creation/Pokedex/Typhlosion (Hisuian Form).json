@@ -1,0 +1,17 @@
+{
+  "number": 157,
+  "name": "Typhlosion (Hisuian Form)",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Double-Edge", "Ember", "Eruption", "Gyro Ball", "Infernal Parade", "Leer", "Smokescreen", "Tackle"],
+    "silver": ["Defense Curl", "Flame Charge", "Flame Wheel", "Lava Plume", "Quick Attack", "Swift"],
+    "gold": ["Burn Up", "Flamethrower", "Inferno", "Lava Plume", "Overheat", "Rollout"],
+    "platinum": ["Curse", "Double Kick", "Extrasensory", "Fire Pledge", "Howl"],
+    "diamond": []
+  }
+}

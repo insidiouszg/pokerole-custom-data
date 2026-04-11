@@ -1,0 +1,6 @@
+{
+    "name": "Pulsar's Band",
+    "description": "All the User's Physical Attacks gain __Pulse Move__.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Dancer's Pin",
+    "description": "All the User's Physical Attacks gain __Dancing__.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -1,0 +1,17 @@
+{
+  "number": 241,
+  "name": "Miltank",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Defense Curl", "Growl", "Stomp", "Tackle"],
+    "silver": ["Bide", "Body Slam", "Captivate", "Milk Drink", "Rollout", "Zen Headbutt"],
+    "gold": ["Gyro Ball", "Heal Bell", "Wake-Up Slap"],
+    "platinum": ["Belch", "Helping Hand", "Mega Kick"],
+    "diamond": []
+  }
+}

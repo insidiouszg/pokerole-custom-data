@@ -1,0 +1,17 @@
+{
+  "number": 749,
+  "name": "Mudbray",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bulldoze", "Double Kick", "Mud Slap", "Mud Sport", "Rototiller"],
+    "silver": ["Bide", "Counter", "Heavy Slam", "High Horsepower", "Iron Defense", "Stomp"],
+    "gold": ["Earthquake", "Mega Kick", "Superpower"],
+    "platinum": ["Magnitude", "Mud Bomb", "Strength"],
+    "diamond": []
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Hardened Mitt",
+    "description": "The User gains +1 Power to all Striking moves. __Striking__ based moves do not make contact while this item is held",
+    "category": "HeldItem",
+    "single_use": false
+}

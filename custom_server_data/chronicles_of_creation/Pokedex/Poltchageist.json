@@ -1,0 +1,17 @@
+{
+  "number": 1012,
+  "name": "Poltchageist",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Absorb", "Astonish", "Stun Spore", "Withdraw"],
+    "silver": ["Foul Play", "Hex", "Life Dew", "Mega Drain", "Rage Powder"],
+    "gold": ["Giga Drain", "Leaf Storm", "Memento", "Shadow Ball"],
+    "platinum": [],
+    "diamond": []
+  }
+}

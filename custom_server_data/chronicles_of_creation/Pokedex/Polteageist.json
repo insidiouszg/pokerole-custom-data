@@ -1,0 +1,17 @@
+{
+  "number": 855,
+  "name": "Polteageist",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Aromatic Mist", "Astonish", "Mega Drain", "Teatime", "Withdraw"],
+    "silver": ["Aromatherapy", "Giga Drain", "Protect", "Shadow Ball", "Sucker Punch"],
+    "gold": ["Memento", "Nasty Plot", "Shell Smash", "Strength Sap"],
+    "platinum": ["Foul Play", "Poltergeist", "Self Destruct", "Stored Power", "Substitute", "Trick"],
+    "diamond": []
+  }
+}

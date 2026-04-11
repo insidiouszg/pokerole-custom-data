@@ -1,0 +1,6 @@
+{
+    "name": "Nomad's Sash",
+    "description": "All the User's Special Attacks gain __Wind Based__.",
+    "category": "HeldItem",
+    "single_use": false
+}

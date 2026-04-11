@@ -1,0 +1,6 @@
+{
+    "name": "Nomad's Staff",
+    "description": "All the User's Physical Attacks gain __Wind Based__.",
+    "category": "HeldItem",
+    "single_use": false
+}

@@ -1,0 +1,17 @@
+{
+  "number": 745,
+  "name": "Lycanroc (Dusk Form)",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": ["Bite", "Howl", "Leer", "Sand Attack", "Tackle"],
+    "silver": ["Accelerock", "Counter", "Odor Sleuth", "Roar", "Rock Throw", "Rock Tomb", "Scary Face", "Stealth Rock"],
+    "gold": ["Crunch", "Rock Climb", "Rock Slide", "Stone Edge", "Thrash"],
+    "platinum": ["Drill Run", "Fire Fang", "Iron Head", "Outrage", "Snarl", "Thunder Fang"],
+    "diamond": []
+  }
+}
